@@ -1,0 +1,61 @@
+Sample Questions for PolicyIQ
+
+GDPR Compliance Questions:
+1. Does policy allow storing customer data outside the US?
+2. What are the GDPR requirements for data breach notification?
+3. What is the maximum time allowed to respond to a data subject access request under GDPR?
+4. What are the requirements for obtaining consent under GDPR?
+5. Can personal data be processed without consent under GDPR?
+6. What are the penalties for GDPR non-compliance?
+7. What is the right to be forgotten under GDPR?
+8. What are the requirements for data protection impact assessments (DPIAs)?
+
+PCI-DSS Compliance Questions:
+1. What does PCI-DSS require for cardholder encryption?
+2. What are the network segmentation requirements for PCI-DSS?
+3. What is the requirement for storing cardholder data?
+4. How often must vulnerability scans be performed under PCI-DSS?
+5. What are the access control requirements for PCI-DSS?
+6. What is required for secure transmission of cardholder data?
+7. What are the logging and monitoring requirements for PCI-DSS?
+8. What is the requirement for penetration testing under PCI-DSS?
+
+SOC2 Compliance Questions:
+1. What are the SOC2 control requirements for access management?
+2. What are the monitoring and logging requirements for SOC2?
+3. What is required for change management under SOC2?
+4. What are the encryption requirements for SOC2?
+5. What are the backup and recovery requirements for SOC2?
+6. What is required for vendor management under SOC2?
+7. What are the incident response requirements for SOC2?
+8. What is the requirement for security awareness training under SOC2?
+
+Data Residency and Cross-Border Questions:
+1. Can customer data be stored in cloud services located outside the EU?
+2. What are the requirements for transferring data across borders?
+3. Are there restrictions on where financial data can be processed?
+4. What are the requirements for data localization in different jurisdictions?
+
+Encryption and Security Questions:
+1. What encryption standards are required for sensitive data?
+2. What are the key management requirements?
+3. What is the requirement for encryption at rest vs encryption in transit?
+4. What are the requirements for secure key storage?
+
+Data Retention and Deletion Questions:
+1. How long should customer data be retained?
+2. What are the requirements for data deletion?
+3. What is the process for secure data destruction?
+4. Are there different retention periods for different types of data?
+
+Access Control and Authentication Questions:
+1. What are the requirements for multi-factor authentication?
+2. What are the password policy requirements?
+3. What is required for privileged access management?
+4. What are the requirements for access reviews?
+
+Incident Response Questions:
+1. What is the process for reporting security incidents?
+2. What are the notification requirements for data breaches?
+3. What is the incident response timeline?
+4. Who should be notified in case of a data breach?
